@@ -64,7 +64,8 @@
   color: #a8a8a8;
 }
 .mejs-playlist li.current {
-  color: white;
+  color: #fb2161;
+  background: #ffffcc;
   font-weight: bold;
 }
 /*End: Playlist*/
